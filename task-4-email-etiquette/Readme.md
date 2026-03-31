@@ -5,11 +5,14 @@ This module focuses on the art of professional digital communication. As a Stude
 Folder Contents
 
 emails.txt: Contains two formal email drafts (Extension Request & Internship Inquiry).
+
 social-media-checklist.md: A comprehensive 10-point guide for safe and professional social media use.
+
 Part A: Professional Email Drafts I have drafted two essential emails following standard professional protocols:
 
 1. Assignment Extension Request: Focuses on a polite tone, clear subject line, and providing a specific new deadline.
 2. Internship Inquiry: Demonstrates how to introduce oneself, state intent clearly, and provide professional links (like LinkedIn).
+
 Key Etiquette Followed:
 
 -Professional salutations and sign-offs.
